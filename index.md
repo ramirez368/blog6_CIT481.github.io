@@ -27,11 +27,12 @@ The heart of Google’s self driving car is the rotating roof top camera, Lidar,
 A camera mounted on the windshield takes care of helping the car ‘see’ objects right in front of it. These include the usual suspects- pedestrians, and other motorists. This camera also detects and records information about road signs and traffic lights, which is intelligently interpreted by the car’s in built software.
 
 ![ ](https://www.national.co.uk/tech-powers-google-car/extra/tech-powers-google-car/images/2.png)
-## 
 
+## # BUMPER MOUNTED RADAR
+4 radars mounted on the car’s front and rear bumpers enable the car to be aware of vehicles in front of it and behind it. Most of us are familiar with this technology as it is the same as the adaptive cruise control systems our cars are based. The radar sensor on the car’s bumpers keeps a ‘digital eye’ on the car ahead. The software is programmed to (at all times) maintain a distance of 2-4 seconds (it could even be higher) vis-a-vis the car ahead of it. So with this technology the car will automatically speed up or slow down depending on the behaviour of the car/driver ahead. Google’s self-driving cars use this technology to keep passengers and other motorists safe by avoiding bumps and crashes.
 
+![ ](https://www.national.co.uk/tech-powers-google-car/extra/tech-powers-google-car/images/3.png)
 
-![ ](https://dl.cdn-anritsu.com/images/tm/solutions/mt1000a-05/mt1000a-5g-ecpri-01e.jpg?la=en-us) 
 
 ## 
 
