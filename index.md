@@ -26,17 +26,17 @@ The heart of Google’s self driving car is the rotating roof top camera, Lidar,
 ## #2 FRONT CAMERA FOR NEAR VISION
 A camera mounted on the windshield takes care of helping the car ‘see’ objects right in front of it. These include the usual suspects- pedestrians, and other motorists. This camera also detects and records information about road signs and traffic lights, which is intelligently interpreted by the car’s in built software.
 
-![ ](https://www.national.co.uk/tech-powers-google-car/extra/tech-powers-google-car/images/2.png)
+![ ](https://www.national.co.uk/tech-powers-google-car/extra/tech-powers-google-car/images/2a.png)
 
 ## #3 BUMPER MOUNTED RADAR
 4 radars mounted on the car’s front and rear bumpers enable the car to be aware of vehicles in front of it and behind it. Most of us are familiar with this technology as it is the same as the adaptive cruise control systems our cars are based. The radar sensor on the car’s bumpers keeps a ‘digital eye’ on the car ahead. The software is programmed to (at all times) maintain a distance of 2-4 seconds (it could even be higher) vis-a-vis the car ahead of it. So with this technology the car will automatically speed up or slow down depending on the behaviour of the car/driver ahead. Google’s self-driving cars use this technology to keep passengers and other motorists safe by avoiding bumps and crashes.
 
-![ ](https://www.national.co.uk/tech-powers-google-car/extra/tech-powers-google-car/images/3.png)
+![ ](https://www.national.co.uk/tech-powers-google-car/extra/tech-powers-google-car/images/3a.png)
 
 ## #4 AERIAL THAT READS PRECISE GEO-LOCATION
 An aerial on the rear of the car receives information about the precise location of the car, thanks to GPS satellites. The car’s GPS inertial navigation unit works with the sensors to help the car localise itself. But GPS estimates may be off by several metres due to signal disturbances and other interferences from the atmosphere. To minimise the degree of uncertainty, the GPS data is compared with sensor map data previously collected from the same location. As the vehicle moves, the vehicle’s internal map is updated with new positional information displayed by the sensors
 
-![ ](https://www.national.co.uk/tech-powers-google-car/extra/tech-powers-google-car/images/4.png)
+![ ](https://www.national.co.uk/tech-powers-google-car/extra/tech-powers-google-car/images/4a.png)
 
 ## #5 ULTRASONIC SENSORS ON REAR WHEELS
 An ultrasonic sensor on one of the rear wheels helps keep track of the movements of the car and will alert the car about the obstacles in the rear. These ultrasonic sensors are already in action in some of the technologically advanced cars of today. Cars that offer automatic ‘Reverse Park Assist’ technology utilise such sensors to help navigate the car into tight reverse parking spots. Typically, these sensors get activated when the car is engaged in the reverse gear.
