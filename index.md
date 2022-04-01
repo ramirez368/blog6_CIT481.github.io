@@ -21,7 +21,7 @@ Driver support technology reduces the workload on the driver. Today, most automa
 ## #1 LASER RANGE FINDER:
 The heart of Google’s self driving car is the rotating roof top camera, Lidar, which is a laser range finder. With its array of 64 laser beams, this camera creates 3D images of objects helping the car see hazards along the way. This device calculates how far an object is from the moving vehicle based on the time it takes for the laser beams to hit the object and come back. These high intensity lasers can calculate distance and create images for objects in an impressive 200m range
 
-![ ](https://www.national.co.uk/tech-powers-google-car/images/social.png)
+![ ](https://www.national.co.uk/tech-powers-google-car/extra/tech-powers-google-car/images/1.png)
 
 ## #2 FRONT CAMERA FOR NEAR VISION
 A camera mounted on the windshield takes care of helping the car ‘see’ objects right in front of it. These include the usual suspects- pedestrians, and other motorists. This camera also detects and records information about road signs and traffic lights, which is intelligently interpreted by the car’s in built software.
