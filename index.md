@@ -53,6 +53,16 @@ All the data gathered by these sensors is collated and interpreted together by t
 
 ![ ](https://www.national.co.uk/tech-powers-google-car/extra/tech-powers-google-car/images/9.png)
 
+## #8 PROGRAMMED TO INTERPRET COMMON ROAD SIGNS
+The software has been programmed to rightly interpret common road behaviour and motorist signs. For example, if a cyclist gestures that he intends to make a manoeuvre, the driverless car interprets it correctly and slows down to allow the motorist to turn. Predetermined shape and motion descriptors are programmed into the system to help the car make intelligent decisions. For instance, if the car detects a 2 wheel object and determines the speed of the object as 10mph rather than 50 mph, the car instantly interprets that this vehicle is a bicycle and not a motorbike and behaves accordingly. Several such programs fed into the car’s central processing unit will work simultaneously, helping the car make safe and intelligent decisions on busy roads.
+
+![ ](https://www.national.co.uk/tech-powers-google-car/extra/tech-powers-google-car/images/10.png)
+
+## #9 MAPPING IN ADVANCE
+At the moment, before a self-driven car is tested, a regular car is driven along the route and maps out the route and it’s road conditions including poles, road markers, road signs and more. This map is fed into the car’s software helping the car identify what is a regular part of the road. As the car moves, its Velodyne laser range finder kicks in (see point 1) and generates a detailed 3D map of the environment at that moment. The car compares this map with the pre-existing map to figure out the non-standard aspects in the road, rightly identifying them as pedestrians and/or other motorists, thus avoiding them.
+
+![ ](https://www.national.co.uk/tech-powers-google-car/extra/tech-powers-google-car/images/11.png)
+
 
 ### I hope this was useful as IoT get deeper and deeper in our lifes.
 
