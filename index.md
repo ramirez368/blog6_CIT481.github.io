@@ -48,6 +48,11 @@ Inside the car are altimeters, gyroscopes, and tachymeters that determine the ve
 
 ![ ](https://www.national.co.uk/tech-powers-google-car/extra/tech-powers-google-car/images/6.png)
 
+## #7 SYNERGISTIC COMBINING OF SENSORS
+All the data gathered by these sensors is collated and interpreted together by the car’s CPU or in built software system to create a safe driving experience.
+
+![ ](https://www.national.co.uk/tech-powers-google-car/extra/tech-powers-google-car/images/9.png)
+
 
 ### I hope this was useful as IoT get deeper and deeper in our lifes.
 
