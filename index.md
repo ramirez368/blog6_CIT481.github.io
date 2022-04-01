@@ -41,9 +41,16 @@ An aerial on the rear of the car receives information about the precise location
 ## #5 ULTRASONIC SENSORS ON REAR WHEELS
 An ultrasonic sensor on one of the rear wheels helps keep track of the movements of the car and will alert the car about the obstacles in the rear. These ultrasonic sensors are already in action in some of the technologically advanced cars of today. Cars that offer automatic ‘Reverse Park Assist’ technology utilise such sensors to help navigate the car into tight reverse parking spots. Typically, these sensors get activated when the car is engaged in the reverse gear.
 
-![ ]https://www.national.co.uk/tech-powers-google-car/extra/tech-powers-google-car/images/5.png
+![ ](https://www.national.co.uk/tech-powers-google-car/extra/tech-powers-google-car/images/5.png)
+
+## #6 DEVICES WITHIN THE CAR
+Inside the car are altimeters, gyroscopes, and tachymeters that determine the very precise position of the car thanks to the various parameters they measure. This offers highly accurate data for the car to operate safely.
+
+![ ](https://www.national.co.uk/tech-powers-google-car/extra/tech-powers-google-car/images/6.png)
+
 
 ### I hope this was useful as IoT get deeper and deeper in our lifes.
+
 
 
 ```
