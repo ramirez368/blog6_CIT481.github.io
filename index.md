@@ -63,6 +63,11 @@ At the moment, before a self-driven car is tested, a regular car is driven along
 
 ![ ](https://www.national.co.uk/tech-powers-google-car/extra/tech-powers-google-car/images/11.png)
 
+## #10 PROGRAMMING REAL LIFE ROAD BEHAVIOUR
+Google engineers have programmed some real life behaviour in these cars. While the vehicle does slow down to allow other motorists to go ahead, especially in 4 way intersections, the car has also been programmed to advance ahead if it detects that the other vehicle is not moving.
+
+Though Google’s self-driving car is not here yet, all this technology sure does make it exciting. And perhaps we are closer to driving one that we let ourselves believe
+![ ](https://www.national.co.uk/tech-powers-google-car/extra/tech-powers-google-car/images/12.png)
 
 ### I hope this was useful as IoT get deeper and deeper in our lifes.
 
