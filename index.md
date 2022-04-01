@@ -15,9 +15,8 @@ Roughly speaking, you can sort the technologies people might refer to as self-dr
 Driver support technology reduces the workload on the driver. Today, most automakers sell various driver support systems, either as standard equipment or as options on their cars. These include intelligent or adaptive cruise control, lane-keeping assists, and hands-free capability.
 
 
-![](https://www.clariontech.com/hubfs/BlogImage-78.png) 
-
-## 
+## 10 ASTONISHING TECHNOLOGIES THAT POWER GOOGLE’S
+## SELF-DRIVING CARS 
 
 
 
