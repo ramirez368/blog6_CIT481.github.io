@@ -41,33 +41,33 @@ An aerial on the rear of the car receives information about the precise location
 ## #5 ULTRASONIC SENSORS ON REAR WHEELS
 An ultrasonic sensor on one of the rear wheels helps keep track of the movements of the car and will alert the car about the obstacles in the rear. These ultrasonic sensors are already in action in some of the technologically advanced cars of today. Cars that offer automatic ‘Reverse Park Assist’ technology utilise such sensors to help navigate the car into tight reverse parking spots. Typically, these sensors get activated when the car is engaged in the reverse gear.
 
-![ ](https://www.national.co.uk/tech-powers-google-car/extra/tech-powers-google-car/images/5.png)
+![ ](https://www.national.co.uk/tech-powers-google-car/extra/tech-powers-google-car/images/5a.png)
 
 ## #6 DEVICES WITHIN THE CAR
 Inside the car are altimeters, gyroscopes, and tachymeters that determine the very precise position of the car thanks to the various parameters they measure. This offers highly accurate data for the car to operate safely.
 
-![ ](https://www.national.co.uk/tech-powers-google-car/extra/tech-powers-google-car/images/6.png)
+![ ](https://www.national.co.uk/tech-powers-google-car/extra/tech-powers-google-car/images/6a.png)
 
 ## #7 SYNERGISTIC COMBINING OF SENSORS
 All the data gathered by these sensors is collated and interpreted together by the car’s CPU or in built software system to create a safe driving experience.
 
-![ ](https://www.national.co.uk/tech-powers-google-car/extra/tech-powers-google-car/images/9.png)
+![ ](https://www.national.co.uk/tech-powers-google-car/extra/tech-powers-google-car/images/9a.png)
 
 ## #8 PROGRAMMED TO INTERPRET COMMON ROAD SIGNS
 The software has been programmed to rightly interpret common road behaviour and motorist signs. For example, if a cyclist gestures that he intends to make a manoeuvre, the driverless car interprets it correctly and slows down to allow the motorist to turn. Predetermined shape and motion descriptors are programmed into the system to help the car make intelligent decisions. For instance, if the car detects a 2 wheel object and determines the speed of the object as 10mph rather than 50 mph, the car instantly interprets that this vehicle is a bicycle and not a motorbike and behaves accordingly. Several such programs fed into the car’s central processing unit will work simultaneously, helping the car make safe and intelligent decisions on busy roads.
 
-![ ](https://www.national.co.uk/tech-powers-google-car/extra/tech-powers-google-car/images/10.png)
+![ ](https://www.national.co.uk/tech-powers-google-car/extra/tech-powers-google-car/images/10a.png)
 
 ## #9 MAPPING IN ADVANCE
 At the moment, before a self-driven car is tested, a regular car is driven along the route and maps out the route and it’s road conditions including poles, road markers, road signs and more. This map is fed into the car’s software helping the car identify what is a regular part of the road. As the car moves, its Velodyne laser range finder kicks in (see point 1) and generates a detailed 3D map of the environment at that moment. The car compares this map with the pre-existing map to figure out the non-standard aspects in the road, rightly identifying them as pedestrians and/or other motorists, thus avoiding them.
 
-![ ](https://www.national.co.uk/tech-powers-google-car/extra/tech-powers-google-car/images/11.png)
+![ ](https://www.national.co.uk/tech-powers-google-car/extra/tech-powers-google-car/images/11a.png)
 
 ## #10 PROGRAMMING REAL LIFE ROAD BEHAVIOUR
 Google engineers have programmed some real life behaviour in these cars. While the vehicle does slow down to allow other motorists to go ahead, especially in 4 way intersections, the car has also been programmed to advance ahead if it detects that the other vehicle is not moving.
 
 Though Google’s self-driving car is not here yet, all this technology sure does make it exciting. And perhaps we are closer to driving one that we let ourselves believe
-![ ](https://www.national.co.uk/tech-powers-google-car/extra/tech-powers-google-car/images/12.png)
+![ ](https://www.national.co.uk/tech-powers-google-car/extra/tech-powers-google-car/images/12a.png)
 
 ### I hope this was useful as IoT get deeper and deeper in our lifes.
 
