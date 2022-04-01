@@ -35,8 +35,13 @@ A camera mounted on the windshield takes care of helping the car ‘see’ objec
 
 ## #4 AERIAL THAT READS PRECISE GEO-LOCATION
 An aerial on the rear of the car receives information about the precise location of the car, thanks to GPS satellites. The car’s GPS inertial navigation unit works with the sensors to help the car localise itself. But GPS estimates may be off by several metres due to signal disturbances and other interferences from the atmosphere. To minimise the degree of uncertainty, the GPS data is compared with sensor map data previously collected from the same location. As the vehicle moves, the vehicle’s internal map is updated with new positional information displayed by the sensors
-## ![ ](https://www.national.co.uk/tech-powers-google-car/extra/tech-powers-google-car/images/4.png)
 
+![ ](https://www.national.co.uk/tech-powers-google-car/extra/tech-powers-google-car/images/4.png)
+
+## #5 ULTRASONIC SENSORS ON REAR WHEELS
+An ultrasonic sensor on one of the rear wheels helps keep track of the movements of the car and will alert the car about the obstacles in the rear. These ultrasonic sensors are already in action in some of the technologically advanced cars of today. Cars that offer automatic ‘Reverse Park Assist’ technology utilise such sensors to help navigate the car into tight reverse parking spots. Typically, these sensors get activated when the car is engaged in the reverse gear.
+
+![ ]https://www.national.co.uk/tech-powers-google-car/extra/tech-powers-google-car/images/5.png
 
 ### I hope this was useful as IoT get deeper and deeper in our lifes.
 
